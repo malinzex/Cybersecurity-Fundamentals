@@ -141,6 +141,8 @@ These devices may include:
 
 Networks allow devices to share resources, exchange data, and access services such as the internet.
 
+![Network Topology](Network%20Topology.png)
+
 ## Understanding IP Addresses
 
 An Internet Protocol (IP) address is a numerical address assigned to a network interface to identify it and enable communication over an IP network.
@@ -235,7 +237,9 @@ DHCP commonly follows a four-step process known as DORA:
 
 DHCP commonly uses UDP ports 67 and 68.
 
-# PART THREE: NETWORK COMMUNICATION PROTOCOLS
+![DHCP DORA Process](DHCP%20Dora%20Process.png)
+
+# NETWORK COMMUNICATION PROTOCOLS
 
 ## Transmission Control Protocol (TCP)
 
@@ -283,6 +287,8 @@ The TCP connection is now established, and data transmission can begin.
 | 1 | SYN | Client requests a connection |
 | 2 | SYN-ACK | Server acknowledges and responds |
 | 3 | ACK | Client acknowledges the response |
+
+![TCP Three-Way Handshake](TCP%20Three%20Way%20Handshake.png)
 
 ## User Datagram Protocol (UDP)
 
