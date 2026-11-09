@@ -121,6 +121,8 @@ Risk statements help organizations:
 - Communicate cybersecurity risks to management.
 - Make informed security decisions.
 
+  ![Threat, Vulnerability & Risk](images/Threatvulnerability-risk.png)
+
 # INTRODUCTION TO NETWORKING
 
 ## What Is a Computer Network?
