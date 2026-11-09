@@ -122,5 +122,3 @@ Risk statements help organizations:
 - Make informed security decisions.
 
 ![Threat, Vulnerability & Risk](Threat,%20Vulnerability%20&%20Risk.png)
-
-tanding how systems work, identifying where weaknesses exist, and recognizing how those weaknesses could be exploited.
