@@ -1,4 +1,4 @@
-# Cybersecurity and Networking Fundamentals: Understanding Threats, Vulnerabilities, and Risks
+# Cybersecurity and Networking Fundamentals: Understanding Threats, Vulnerabilities, and Risks.
 
 ## Introduction
 
