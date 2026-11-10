@@ -1,6 +1,6 @@
-# Cybersecurity and Networking Fundamentals: Understanding Threats, Vulnerabilities, Risks and Network Protocols
+# Cybersecurity and Networking Fundamentals: Understanding Threats, Vulnerabilities, and Risks
 
-## 1. Introduction
+## Introduction
 
 As part of my cybersecurity learning journey, I have been studying fundamental cybersecurity concepts and networking principles that form the foundation of understanding how computer systems communicate and how they can be protected.
 
